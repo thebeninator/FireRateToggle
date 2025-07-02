@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using FireRateToggle;
 using GHPC.Player;
 using GHPC.State;
@@ -14,7 +10,7 @@ using MelonLoader;
 using PactIncreasedLethality;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(FireRateToggleMod), "Fire-Rate Toggle", "1.0.0", "ATLAS")]
+[assembly: MelonInfo(typeof(FireRateToggleMod), "Fire-Rate Toggle", "1.0.1", "ATLAS")]
 [assembly: MelonGame("Radian Simulations LLC", "GHPC")]
 
 namespace FireRateToggle

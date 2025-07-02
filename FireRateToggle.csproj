@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Assembly-CSharp-Publicized">
+    <Reference Include="Assembly-CSharp-Publicized, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>D:\GHPC MODDED\GHPC_Data\Managed\publicized_assemblies\Assembly-CSharp-Publicized.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader">
